@@ -1,5 +1,5 @@
 <template>
-  <h1>{{ Bienvenu sur le site d Annette}}</h1>
+  <h1>{{ msg}}</h1>
   
   <p>Bienvenu sur le site d'Annette</p>
 </template>

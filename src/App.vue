@@ -3,6 +3,19 @@
   <Bienvenu sur le site d'Annette />
 </template>
 
+<  HelloWorld from './components/HelloWorld.vue'
+
+export default {
+  name: 'App',
+  components: {
+    HelloWorld
+  }
+}
+script>
+import
+</script>
+
+
 <script>
 
 export default {
