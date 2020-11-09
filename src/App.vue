@@ -5,6 +5,7 @@
   <Bienvenu sur le site d'Annette />
 </template>
 <script>
+   <Bienvenu sur le site d'Annette />
 <  HelloWorld from './components/HelloWorld.vue'
 
 export default {
