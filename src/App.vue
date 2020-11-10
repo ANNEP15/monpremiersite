@@ -1,6 +1,8 @@
 <template>
 <div> id="app>"
-  <img alt="Vue logo" src="./assets/logo.png" />
+ <img alt="Vue logo" src=".assets/logo.png"/>
+ <Bienvenu sur le site Annette/>
+ 
 <messages/>
   </div>
   
