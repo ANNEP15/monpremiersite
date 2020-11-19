@@ -21,6 +21,7 @@
         <li class="nav-item active">
           <a class="nav-link" href="#tableau">Tableau <span class="sr-only">Tableau</span></a>
         </li>
+        <img src="./assets/logo.jpg"/>
     </div>
   </nav>
   <Messages msg="Hello - Bienvenu sur le site d'Annette" />
