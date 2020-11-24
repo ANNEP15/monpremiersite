@@ -25,6 +25,9 @@
     </div>
   </nav>
   <Messages msg="Hello - Bienvenu sur le site d'Annette" />
+  <!-- Footer -->
+ <div id="footer">Je suis le footer </div> 
+<!-- Footer -->
 </template>
 
 <script>
