@@ -28,10 +28,8 @@
         <li class="float-right">
         <img class="float-right" src="./assets/logo.jpg"/>
         </li>
-        
-                     
-            
-                       
+                    
+                            
     </div>
     
   </nav>
@@ -43,16 +41,28 @@
     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
     <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
     <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="6"></li>
   </ol>
   <div class="carousel-inner">
+
     <div class="carousel-item active">
-      <img class="d-block w-100" src="./assets/femme flamme2.jpg" alt="Tableau 1">
+      <img class="d-block w-100" src="./assets/femme flamme1.jpg" alt="Tableau 1">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="./assets/MER2.jpg" alt="Second slide">
+      <img class="d-block w-100" src="./assets/MER.jpg" alt="Second slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="..." alt="Third slide">
+      <img class="d-block w-100" src="./assets/CHEMIN1.jpg" alt="Third slide">
+    </div>
+      <div class="carousel-item">
+      <img class="d-block w-100" src="./assets/FACE.jpg" alt="Fourth slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="./assets/TOURBILLON.jpg" alt="Fifth slide">
+    </div>
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
