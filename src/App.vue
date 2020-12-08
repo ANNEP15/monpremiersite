@@ -32,19 +32,19 @@
   <div class="carousel-inner">
 
     <div class="carousel-item active">
-      <img class="d-block w-100" src="./assets/femme flamme1.jpg" alt="Tableau 1">
+      <img class="w-100" src="./assets/femme flamme1.jpg" alt="Tableau 1">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="./assets/MER.jpg" alt="Second slide">
+      <img class="w-100" src="./assets/MER.jpg" alt="Second slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="./assets/CHEMIN1.jpg" alt="Third slide">
+      <img class="w-100" src="./assets/CHEMIN1.jpg" alt="Third slide">
     </div>
       <div class="carousel-item">
-      <img class="d-block w-100" src="./assets/FACE.jpg" alt="Fourth slide">
+      <img class="w-100" src="./assets/FACE.jpg" alt="Fourth slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="./assets/TOURBILLON.jpg" alt="Fifth slide">
+      <img class="w-100" src="./assets/TOURBILLON.jpg" alt="Fifth slide">
     </div>
     </div>
   </div>
@@ -78,3 +78,14 @@ export default {
   },
 };
 </script>
+
+<style>
+.carousel-control-prev-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='black' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E");
+}
+
+.carousel-control-next-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='black' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E");
+}
+
+</style>

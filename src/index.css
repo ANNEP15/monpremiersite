@@ -9,9 +9,10 @@ center {text-align: center;}
   color: black;
 }
 .w-100 {
-  width: 30% !important;
-  height: 75vh;
+  width: 20% !important;
+  height: 65vh;
 }
+
 
 #footer {
   position:absolute;
